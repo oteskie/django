@@ -1,0 +1,1 @@
+web: gunicorn osamateskie.wsgi --log-file -
